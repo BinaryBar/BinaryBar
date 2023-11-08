@@ -1,4 +1,4 @@
-![logo](https://github.com/BinaryBar/Sushmoy-Paul/blob/main/gradient-business-linkedin-banner_23-2150091566.jpg)
+![logo](https://github.com/BinaryBar/BinaryBar/blob/main/gradient-business-linkedin-banner_23-2150091566.jpg)
 <h1 align="center">Hi 👋, I'm Sushmoy Paul</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
